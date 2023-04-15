@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/savorli-site-deploy/static/css/main.6b1fcdab.css",
+    "main.js": "/savorli-site-deploy/static/js/main.5481b4e4.js",
+    "static/js/787.72095696.chunk.js": "/savorli-site-deploy/static/js/787.72095696.chunk.js",
+    "static/media/logo.svg": "/savorli-site-deploy/static/media/logo.17cfa82feecd8850a9ae9b882d6422cc.svg",
+    "index.html": "/savorli-site-deploy/index.html",
+    "main.6b1fcdab.css.map": "/savorli-site-deploy/static/css/main.6b1fcdab.css.map",
+    "main.5481b4e4.js.map": "/savorli-site-deploy/static/js/main.5481b4e4.js.map",
+    "787.72095696.chunk.js.map": "/savorli-site-deploy/static/js/787.72095696.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1fcdab.css",
+    "static/js/main.5481b4e4.js"
+  ]
+}
