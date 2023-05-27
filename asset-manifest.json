@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/savorli-site-deploy/static/css/main.00fca67e.css",
-    "main.js": "/savorli-site-deploy/static/js/main.bc2a24cd.js",
+    "main.js": "/savorli-site-deploy/static/js/main.93310c76.js",
     "static/js/787.72095696.chunk.js": "/savorli-site-deploy/static/js/787.72095696.chunk.js",
     "static/media/default-favorites-sidebar.jpg": "/savorli-site-deploy/static/media/default-favorites-sidebar.89e7b7c064bbb3814bcd.jpg",
     "static/media/default-404.jpg": "/savorli-site-deploy/static/media/default-404.e0f0b4dd01adc8d3c71d.jpg",
@@ -21,11 +21,11 @@
     "static/media/cover-1.jpg": "/savorli-site-deploy/static/media/cover-1.779baee466bb71d01655.jpg",
     "index.html": "/savorli-site-deploy/index.html",
     "main.00fca67e.css.map": "/savorli-site-deploy/static/css/main.00fca67e.css.map",
-    "main.bc2a24cd.js.map": "/savorli-site-deploy/static/js/main.bc2a24cd.js.map",
+    "main.93310c76.js.map": "/savorli-site-deploy/static/js/main.93310c76.js.map",
     "787.72095696.chunk.js.map": "/savorli-site-deploy/static/js/787.72095696.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.00fca67e.css",
-    "static/js/main.bc2a24cd.js"
+    "static/js/main.93310c76.js"
   ]
 }
