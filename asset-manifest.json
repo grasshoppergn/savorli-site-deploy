@@ -1,16 +1,31 @@
 {
   "files": {
-    "main.css": "/savorli-site-deploy/static/css/main.6b1fcdab.css",
-    "main.js": "/savorli-site-deploy/static/js/main.5481b4e4.js",
+    "main.css": "/savorli-site-deploy/static/css/main.00fca67e.css",
+    "main.js": "/savorli-site-deploy/static/js/main.bc2a24cd.js",
     "static/js/787.72095696.chunk.js": "/savorli-site-deploy/static/js/787.72095696.chunk.js",
-    "static/media/logo.svg": "/savorli-site-deploy/static/media/logo.17cfa82feecd8850a9ae9b882d6422cc.svg",
+    "static/media/default-favorites-sidebar.jpg": "/savorli-site-deploy/static/media/default-favorites-sidebar.89e7b7c064bbb3814bcd.jpg",
+    "static/media/default-404.jpg": "/savorli-site-deploy/static/media/default-404.e0f0b4dd01adc8d3c71d.jpg",
+    "static/media/default-single-hero.jpg": "/savorli-site-deploy/static/media/default-single-hero.bbee4416f7652c88b267.jpg",
+    "static/media/default-sidebar.jpg": "/savorli-site-deploy/static/media/default-sidebar.4ff70bf7234383a20c87.jpg",
+    "static/media/cover-12.jpg": "/savorli-site-deploy/static/media/cover-12.ec092399130b8b64def3.jpg",
+    "static/media/cover-8.jpg": "/savorli-site-deploy/static/media/cover-8.af94627e8bdba12e806c.jpg",
+    "static/media/cover-2.jpg": "/savorli-site-deploy/static/media/cover-2.7b359c029ee2ac9a9b18.jpg",
+    "static/media/cover-4.jpg": "/savorli-site-deploy/static/media/cover-4.5fa6fc9d0682ef3fb30b.jpg",
+    "static/media/cover-3.jpg": "/savorli-site-deploy/static/media/cover-3.de420ccfc9ef2c9a3a1a.jpg",
+    "static/media/cover-7.jpg": "/savorli-site-deploy/static/media/cover-7.fd6fa88c721bcd835299.jpg",
+    "static/media/cover-11.jpg": "/savorli-site-deploy/static/media/cover-11.b349bb77aa68ed2e0dd2.jpg",
+    "static/media/cover-5.jpg": "/savorli-site-deploy/static/media/cover-5.a18eff149cd7615f7678.jpg",
+    "static/media/cover-10.jpg": "/savorli-site-deploy/static/media/cover-10.26b9aa9ec71f60ff1f22.jpg",
+    "static/media/cover-9.jpg": "/savorli-site-deploy/static/media/cover-9.97966f6ee59ce5262932.jpg",
+    "static/media/cover-6.jpg": "/savorli-site-deploy/static/media/cover-6.def7c13d1a16fa637bbd.jpg",
+    "static/media/cover-1.jpg": "/savorli-site-deploy/static/media/cover-1.779baee466bb71d01655.jpg",
     "index.html": "/savorli-site-deploy/index.html",
-    "main.6b1fcdab.css.map": "/savorli-site-deploy/static/css/main.6b1fcdab.css.map",
-    "main.5481b4e4.js.map": "/savorli-site-deploy/static/js/main.5481b4e4.js.map",
+    "main.00fca67e.css.map": "/savorli-site-deploy/static/css/main.00fca67e.css.map",
+    "main.bc2a24cd.js.map": "/savorli-site-deploy/static/js/main.bc2a24cd.js.map",
     "787.72095696.chunk.js.map": "/savorli-site-deploy/static/js/787.72095696.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6b1fcdab.css",
-    "static/js/main.5481b4e4.js"
+    "static/css/main.00fca67e.css",
+    "static/js/main.bc2a24cd.js"
   ]
 }
